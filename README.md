@@ -1,6 +1,6 @@
 # P2 - Looking For Group Synchronization
 **Submitted by:** Simone Franceska Emanuelle M. Capio<br/>
-**Course Code & Block:** STDISCM - S16
+**Course Code & Block:** STDISCM - S17
 
 ## Compile Command
 ```
